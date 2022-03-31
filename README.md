@@ -58,7 +58,7 @@ rep_dict = {'a': 'alewa',
             'ie': 'ielewie',
             'au': 'aulewau'}
 ```           
-Here you can create or change varieties of the speech, or you can also add additional letters for further "decryption".
+Here you can create varieties of the speech, or you can also add additional letters for further "decryption".
 
 
 _coded with :purple_heart: by_ **Fabian Rehme**
