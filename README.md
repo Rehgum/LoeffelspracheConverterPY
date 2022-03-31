@@ -6,6 +6,7 @@ Basic Converter von normaler Sprache[^1] bzw. Text[^1] in die sog. "Löffelsprac
 
 Der code enthät ein Dictionary, welches beliebig geändert werden kann.
 So können mit wenigen Änderungen auch die vielen Abwandlungen der Sprache eingepflegt werden.
+Die bekannten werden mit "lef" oder "lof" gebildet, anstatt mit "lew". Oder du kreierst deine eigene Abwandlung.
 
 ### :scroll: Benötigt wird folgende Library: :scroll:
 **[re] (Regular Expression Operations) aka regex**
@@ -36,7 +37,8 @@ Basic converter from normal speech[^2] or text[^2] to the so called "Löffelspra
 [^2]: tested with german. even though this documentation is in english, i think this won't work with english. But if there's something simmilar in the english language please let me know how it works and commit your code to the project.
 
 The code contains a dictionary, which you can edit to your needs.
-This way you can easily make changes and implement dozens of varieties to the speech. (or maybe create your own one?)
+This way you can easily make changes and implement dozens of varieties to the speech.
+Known ones can be built with "lef" or "lof" instead of "lew" (or maybe create your own one?)
 
 ### :scroll: Needed library: :scroll:
 **[re] (Regular Expression Operations) aka regex**
