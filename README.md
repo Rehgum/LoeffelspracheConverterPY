@@ -1,5 +1,6 @@
 # [DE]
 # :spoon: LöeffelspracheConverterPY :spoon:
+
 Basic Converter von normaler Sprache[^1] bzw. Text[^1] in die sog. "Löffelsprache" auch "Löfflisch" genannt - mit Python. 
 [^1]: Nur getestet mit Deutsch
 
@@ -30,6 +31,7 @@ Hier können abwandlungen der Sprache angelegt werden, oder auch zusätzliche We
 
 # [EN]
 # :spoon: SpoonSpeechConverterPY :spoon:
+
 Basic converter from normal speech[^2] or text[^2] to the so called "Löffelsprache" also known as "Löfflisch" - with Python. 
 [^2]: tested with german. even though this documentation is in english, i think this won't work with english. But if there's something simmilar in the english language please let me know how it works and commit your code to the project.
 
@@ -57,3 +59,6 @@ rep_dict = {'a': 'alewa',
             'au': 'aulewau'}
 ```           
 Here you can create or change varieties of the speech, or you can also add additional letters for further "decryption".
+
+
+_coded with :purple_heart: by_ **Fabian Rehme**
